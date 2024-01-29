@@ -1,4 +1,4 @@
-# Stock Trends Prediction
+# Stock Price Prediction
 ![](https://4236008.fs1.hubspotusercontent-na1.net/hub/4236008/hubfs/Plancorp-market-prediction-is-harder-than-you-think.jpeg?width=858&name=Plancorp-market-prediction-is-harder-than-you-think.jpeg)
 
 This Project focuses on predicting the stock prices of different publicly listed organisations worldwide using a dataset containing various features and attributes related to that company. By analyzing the data, modelled a Deep Learning model that foreacasts the future stock prices of corporate companies accurately.
